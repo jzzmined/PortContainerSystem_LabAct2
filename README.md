@@ -4,15 +4,21 @@ Short Description
 A Java console-based program that simulates port operations using stack (for containers) and queue (for ships). It allows storing containers, viewing them, registering arriving ships, viewing waiting ships, and loading containers onto ships.
 
 How to Run the Program
+
 Open a terminal or command prompt.
+
 Compile the program:
+
   javac PortContainerManagement_LabAct.java
 
 Run the program:
+
   java PortContainerManagement_LabAct
 
 Example Input/Output
+
 Menu:
+
 === Port Container Management System ===
 
 [1] Store container (push)
