@@ -1,6 +1,5 @@
 Port Container Management System
 
-Short Description
 A Java console-based program that simulates port operations using stack (for containers) and queue (for ships). It allows storing containers, viewing them, registering arriving ships, viewing waiting ships, and loading containers onto ships.
 
 How to Run the Program
